@@ -17,7 +17,7 @@ public class Welcome extends JFrame implements ActionListener{
 	JButton log = new JButton("Go");
 	
 	JLabel background = null;
-	ImageIcon img = new ImageIcon("C:\\Users\\Shriharideepika\\OneDrive\\Desktop\\Anime\\Anime pics\\PharmacyImg.jpg");
+	ImageIcon img = new ImageIcon("**\\PharmacyImg.jpg");
 	
 	Welcome(){
 		
